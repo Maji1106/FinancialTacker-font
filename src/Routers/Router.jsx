@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import Home from "../Pages/Home";
-import Layout from "../Component/Layout";
+import Layout from "../component/Layout";
 import Dashbord from "../Pages/Dashbord";
 import { FinancialRecordProvider } from "../contexts/financial.context";
 import EditRecord from "../Pages/Dashbord/EditRecordform";
