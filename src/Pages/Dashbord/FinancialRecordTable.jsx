@@ -1,5 +1,5 @@
 import React from "react";
-import Table from "../../Component/Table"; // หรือ path ที่ถูกต้องของคอมโพเนนต์ Table
+import Table from "../../component/Table"; // หรือ path ที่ถูกต้องของคอมโพเนนต์ Table
 
 const FinancialRecordTable = () => {
   return (
